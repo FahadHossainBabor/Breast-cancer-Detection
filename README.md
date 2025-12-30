@@ -21,43 +21,6 @@ The model demonstrated strong diagnostic performance on the test set:
 * **Accuracy:** 97.37%.
 * **Malignant Class:** 1.00 Precision and 0.93 Recall.
 * **Benign Class:** 0.96 Precision and 1.00 Recall.
-
-
-
-## 🚀 GitHub Deployment Instructions
-
-To upload this project to your GitHub repository, follow these steps:
-
-1. **Initialize Git:**
-   ```bash
-   git init
-
-```
-
-2. **Add Project Files:**
-```bash
-git add 2103114_source_code.ipynb README.md
-
-```
-
-
-3. **Commit Changes:**
-```bash
-git commit -m "Initial commit: Breast Cancer Classification with 97% Accuracy"
-
-```
-
-
-4. **Push to GitHub:**
-```bash
-git remote add origin [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-git branch -M main
-git push -u origin main
-
-```
-
-
-
 ---
 
 **Author:** Fahad Hossain
