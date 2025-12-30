@@ -1,4 +1,3 @@
-```markdown
 # Breast Cancer Classification using Gaussian Naive Bayes
 
 ## 📌 Project Overview
